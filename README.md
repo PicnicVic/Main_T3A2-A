@@ -122,7 +122,7 @@ Their ultimate park is one that has a toilet, cover from the sun, a playground a
 ### []()
 
 ![Image one of ](./Resources/)
-![Image two of ](./Resources/)
+![Image two of ](./Resources/)!
 
 ### []()
 
