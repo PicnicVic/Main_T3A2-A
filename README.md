@@ -130,10 +130,10 @@ The problem that Glenn are two fold: <br />1. Finding the right park with right 
 ![Image one of ](./Resources/userStory-glenn1.png)
 ![Image two of ](./Resources/userStory-glenn2.1.png)
 
-### []()
+### [Henry Williams](https://www.figma.com/file/Ix0i5H4wdlQMbqRtiHGorb/User-personas---Henry-Williams?node-id=0%3A1)
 
-![Image one of ](./Resources/)
-![Image two of ](./Resources/)
+![Image one of ](./Resources/UserStory_Henry_1.png)
+![Image two of ](./Resources/UserStory_Henry_2.png)
 
 ### []()
 
